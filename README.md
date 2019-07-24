@@ -25,5 +25,15 @@ npm run test
 npm run lint
 ```
 
+### To run Storybook
+```
+npm run storybook:serve
+```
+
+### To build storybook for production (publish directory: storybook-static)
+```
+npm run storybook:build
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
